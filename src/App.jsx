@@ -11,7 +11,9 @@ function App() {
       about="sobre"
       agend="agendar"
       />
-      <Main/>
+      <Main
+      bgDiv1="./src/assets/img/bg-div1.jpg"
+      />
 
     </>
   )
